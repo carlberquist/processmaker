@@ -94,16 +94,4 @@ return [
     'prefix' => 'processmaker',
 
 ];
-/*
-test changes for login_security 123456 55555555555555555
-*/
 
-/*
- another comment
- */
-/*
- test more commits for branch-merge
- */
-/**
- * more changes 1234567890 Testing-branch-changes-111111111111111
- */
